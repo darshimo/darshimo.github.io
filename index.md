@@ -1,123 +1,42 @@
 ---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
 layout: default
+title: About
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# About Me
 
-[Link to another page](./another-page.html).
+I am a software engineer in Kanagawa, Japan.
+My interests are formal languages and computational logic.
 
-There should be whitespace between paragraphs.
+## Education
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+- Apr. 2019 - Mar. 2021
+  Master of Computer Science (Supervisor: Prof. [Naoki Kobayashi](http://www-kb.is.s.u-tokyo.ac.jp/~koba/))
+  [Department of Computer Science](http://www.is.s.u-tokyo.ac.jp/english), [Graduate School of Information Science and Technology](http://www.i.u-tokyo.ac.jp/index_e.shtml), [The University of Tokyo](http://www.u-tokyo.ac.jp/en)
+- Apr. 2015 - Mar. 2019
+  Bachelor of Engineering
+  [Department of Electrical and Electronic Engineering](https://www.ee.t.u-tokyo.ac.jp), [Faculty of Engineering](https://www.t.u-tokyo.ac.jp), [The University of Tokyo](http://www.u-tokyo.ac.jp/en)
 
-# Header 1
+## Peer-reviewed conference paper
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+- Takumi Shimoda, Naoki Kobayashi, Ken Sakayori, and Ryosuke Sato.
+  **Symbolic Automatic Relations and Their Applications to SMT and CHC Solving**
+  [28th Static Analysis Symposium (SAS 2021)](https://conf.researchr.org/home/sas-2021), Chicago, Illinois, United States, 2021.
+  ([Springer](/pub/tmp.pdf))([arXiv](https://arxiv.org/abs/2108.07642))([slides](/pub/tmp.pdf))([video](/pub/tmp.pdf))
 
-## Header 2
+## Work
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+- Sep. 2019 - Mar. 2021
+  Backend web engineer at Promethee Inc.
+- Mar. 2019
+  Software engineer at Fixstars Corporation
+- Aug. 2017 - Mar. 2018
+  Cloud engineer at Moff Inc.
 
-### Header 3
+## Skills
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+- Competitive programming ([AtCoder](https://atcoder.jp/users/darshimo))
+- Programming language: Rust, C/C++, Type Script, Python, OCaml
