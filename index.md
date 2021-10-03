@@ -8,32 +8,32 @@ title: About
 
 # About Me
 
-I am a software engineer in Kanagawa, Japan.
+I am a software engineer in Kanagawa, Japan.  
 My interests are formal languages and computational logic.
 
 ## Education
 
-- Apr. 2019 - Mar. 2021
-  Master of Computer Science (Supervisor: Prof. [Naoki Kobayashi](http://www-kb.is.s.u-tokyo.ac.jp/~koba/))
+- Apr. 2019 - Mar. 2021  
+  Master of Computer Science (Supervisor: Prof. [Naoki Kobayashi](http://www-kb.is.s.u-tokyo.ac.jp/~koba/))  
   [Department of Computer Science](http://www.is.s.u-tokyo.ac.jp/english), [Graduate School of Information Science and Technology](http://www.i.u-tokyo.ac.jp/index_e.shtml), [The University of Tokyo](http://www.u-tokyo.ac.jp/en)
-- Apr. 2015 - Mar. 2019
-  Bachelor of Engineering
+- Apr. 2015 - Mar. 2019  
+  Bachelor of Engineering  
   [Department of Electrical and Electronic Engineering](https://www.ee.t.u-tokyo.ac.jp), [Faculty of Engineering](https://www.t.u-tokyo.ac.jp), [The University of Tokyo](http://www.u-tokyo.ac.jp/en)
 
 ## Peer-reviewed conference paper
 
-- Takumi Shimoda, Naoki Kobayashi, Ken Sakayori, and Ryosuke Sato.
-  **Symbolic Automatic Relations and Their Applications to SMT and CHC Solving**
-  [28th Static Analysis Symposium (SAS 2021)](https://conf.researchr.org/home/sas-2021), Chicago, Illinois, United States, 2021.
+- Takumi Shimoda, Naoki Kobayashi, Ken Sakayori, and Ryosuke Sato.  
+  **Symbolic Automatic Relations and Their Applications to SMT and CHC Solving**  
+  [28th Static Analysis Symposium (SAS 2021)](https://conf.researchr.org/home/sas-2021), Chicago, Illinois, United States, 2021.  
   ([Springer](/pub/tmp.pdf))([arXiv](https://arxiv.org/abs/2108.07642))([slides](/pub/tmp.pdf))([video](/pub/tmp.pdf))
 
 ## Work
 
-- Sep. 2019 - Mar. 2021
+- Sep. 2019 - Mar. 2021  
   Backend web engineer at Promethee Inc.
-- Mar. 2019
+- Mar. 2019  
   Software engineer at Fixstars Corporation
-- Aug. 2017 - Mar. 2018
+- Aug. 2017 - Mar. 2018  
   Cloud engineer at Moff Inc.
 
 ## Skills
