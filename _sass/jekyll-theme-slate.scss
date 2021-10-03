@@ -57,7 +57,8 @@ h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: 700;
   color:#222222;
-  font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
+  // font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
+  font-family: 'Helvetica', 'Calibri', Helvetica, Arial, sans-serif;
   letter-spacing: -1px;
 }
 
@@ -263,6 +264,32 @@ kbd {
   line-height: 11px;
   padding: 3px 5px;
   vertical-align: middle;
+}
+
+.social ul {
+  list-style: none;
+  overflow: hidden;
+  margin-left: -25px;
+}
+
+.social ul li {
+  text-align: left;
+  margin-left: 10px;
+  float: left;
+}
+
+.social ul li a i {
+  color: #fff;
+}
+
+.circle {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: rgb(40, 119, 155);
+  text-align:center;
+  line-height: 65px;
 }
 
 /*******************************************************************************
