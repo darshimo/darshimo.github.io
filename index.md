@@ -25,7 +25,7 @@ My interests are formal languages and computational logic.
 - Takumi Shimoda, Naoki Kobayashi, Ken Sakayori, and Ryosuke Sato.  
   **Symbolic Automatic Relations and Their Applications to SMT and CHC Solving**  
   [28th Static Analysis Symposium (SAS 2021)](https://conf.researchr.org/home/sas-2021), Chicago, Illinois, United States, 2021.  
-  ([Springer](https://doi.org/10.1007/978-3-030-88806-0_20))([arXiv](https://arxiv.org/abs/2108.07642))([slides](/pub/tmp.pdf))([video](/pub/tmp.pdf))
+  ([Springer](https://doi.org/10.1007/978-3-030-88806-0_20))([arXiv](https://arxiv.org/abs/2108.07642))([slides](/pub/sas21_slides.pdf))([video](https://youtu.be/qx0R2M6REXs))
 
 ## Work
 
