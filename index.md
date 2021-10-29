@@ -3,10 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: About
+# title: About
 ---
 
-## About Me
+# About Me
 
 I am a software engineer in Kanagawa, Japan.  
 My interests are formal languages and computational logic.
