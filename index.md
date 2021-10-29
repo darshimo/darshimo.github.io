@@ -6,7 +6,7 @@ layout: default
 title: About
 ---
 
-# About Me
+## About Me
 
 I am a software engineer in Kanagawa, Japan.  
 My interests are formal languages and computational logic.
