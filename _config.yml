@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# title: Takumi Shimoda / 下田 匠
-title: Takumi Shimoda
+title: Takumi Shimoda (下田 匠)
+title_en: Takumi Shimoda
 email: takumishimoda7623@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
